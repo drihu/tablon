@@ -32,7 +32,6 @@ td {
   border-bottom: 1px solid #DDD;
   padding: 10px;
   font-weight: 400;
-  text-align: left;
 }
 td:first-child {
   border-left: 0;
